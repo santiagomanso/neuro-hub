@@ -10,6 +10,8 @@ import Moon from './svg/Moon.svg';
 import Settings from './svg/Settings.svg';
 import Plus from './svg/Plus.svg';
 import Laptop from './svg/Laptop.svg';
+import Brain from './svg/Brain.svg';
+import Brasil from './svg/Brasil.svg';
 
 export const icons = {
   Google,
@@ -24,4 +26,6 @@ export const icons = {
   Settings,
   Plus,
   Laptop,
+  Brain,
+  Brasil,
 };

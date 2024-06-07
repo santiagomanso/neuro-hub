@@ -11,11 +11,11 @@ export default function LandingTestimonials() {
               Testimonials
             </div>
             <h2 className='text-3xl font-bold tracking-tighter sm:text-5xl'>
-              What Our Customers Say
+              What Our Clients Say
             </h2>
-            <p className='max-w-[900px] text-gray-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-gray-400'>
+            <p className='max-w-[900px] text-gray-600 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-gray-400'>
               Dive into reviews from certified shop owners and read their
-              anecdotes of how our software help them with their buisnesses.
+              anecdotes of how our software help them with their clinics.
             </p>
           </div>
         </div>
@@ -26,15 +26,17 @@ export default function LandingTestimonials() {
                 <UserIcon className='h-6 w-6 text-gray-500 dark:text-gray-400' />
               </div>
               <div>
-                <p className='text-sm font-medium'>John Doe</p>
+                <p className='text-sm font-medium'>É o Tchan</p>
                 <p className='text-sm text-gray-500 dark:text-gray-400'>
-                  123 Main St, Anytown USA
+                  89 Dança do Põe Põe St, Minas Gerais BR
                 </p>
               </div>
             </div>
             <p className='mt-4 text-sm text-gray-800 dark:text-gray-200'>
-              &quot;The car wash service was excellent. The staff was friendly
-              and the results were amazing. I highly recommend this place!&quot;
+              &quot;This platform is exceptional! It has significantly improved
+              my efficiency as a psychologist and the secure data management is
+              top-notch, very roboust and secure. I can&apos;t recommend this
+              platform highly enough!&quot;
             </p>
           </article>
           <article className='bg-gradient-to-tr p-4 rounded-lg from-white to-gray-300 via-white shadow-gray-400 hover:shadow-gray-500 dark:shadow-gray-950 shadow-md hover:shadow-lg hover:dark:shadow-slate-950 border-[1px] dark:border-gray-700/80  transition-transform duration-300 ease-in-out hover:-translate-y-2 dark:from-gray-800 dark:to-slate-950'>
@@ -43,15 +45,17 @@ export default function LandingTestimonials() {
                 <UserIcon className='h-6 w-6 text-gray-500 dark:text-gray-400' />
               </div>
               <div>
-                <p className='text-sm font-medium'>Jane Smith</p>
+                <p className='text-sm font-medium'>XUXA</p>
                 <p className='text-sm text-gray-500 dark:text-gray-400'>
-                  123 Main St, Anytown USA
+                  17 Globo St, Angra do Reis BR
                 </p>
               </div>
             </div>
             <p className='mt-4 text-sm text-gray-800 dark:text-gray-200'>
-              &quot;I&apos;ve been coming to this car wash for years and they
-              never disappoint. The attention to detail is outstanding.&quot;
+              &quot;I&apos;ve been using this platform for years and it never
+              disappoints. The attention to detail in patient management is
+              outstanding and the schedule calendar system is out of this world;
+              would recommend 10/10&quot;
             </p>
           </article>
           <article className='bg-gradient-to-tr p-4 rounded-lg from-white to-gray-300 via-white shadow-gray-400 hover:shadow-gray-500 dark:shadow-gray-950 shadow-md hover:shadow-lg hover:dark:shadow-slate-950 border-[1px] dark:border-gray-700/80  transition-transform duration-300 ease-in-out hover:-translate-y-2 dark:from-gray-800 dark:to-slate-950'>
@@ -60,15 +64,17 @@ export default function LandingTestimonials() {
                 <UserIcon className='h-6 w-6 text-gray-500 dark:text-gray-400' />
               </div>
               <div>
-                <p className='text-sm font-medium'>John Doe</p>
+                <p className='text-sm font-medium'>Dora Miller</p>
                 <p className='text-sm text-gray-500 dark:text-gray-400'>
-                  123 Main St, Anytown USA
+                  47th Bellevue St, Berlin Germany
                 </p>
               </div>
             </div>
             <p className='mt-4 text-sm text-gray-800 dark:text-gray-200'>
-              &quot;The car wash service was excellent. The staff was friendly
-              and the results were amazing. I highly recommend this place!&quot;
+              &quot;This platform has completely transformed my practice. The
+              comprehensive test library offers a wide range of options for
+              patient assessment. and the automated reports save me a
+              significant amount of time.&quot;
             </p>
           </article>
           <article className='bg-gradient-to-tr p-4 rounded-lg from-white to-gray-300 via-white shadow-gray-400 hover:shadow-gray-500 dark:shadow-gray-950 shadow-md hover:shadow-lg hover:dark:shadow-slate-950 border-[1px] dark:border-gray-700/80  transition-transform duration-300 ease-in-out hover:-translate-y-2 dark:from-gray-800 dark:to-slate-950'>
@@ -77,15 +83,17 @@ export default function LandingTestimonials() {
                 <UserIcon className='h-6 w-6 text-gray-500 dark:text-gray-400' />
               </div>
               <div>
-                <p className='text-sm font-medium'>Jane Smith</p>
+                <p className='text-sm font-medium'>Ronaldinho Gaúcho</p>
                 <p className='text-sm text-gray-500 dark:text-gray-400'>
-                  123 Main St, Anytown USA
+                  81 Meia Praia St, Penha SC
                 </p>
               </div>
             </div>
             <p className='mt-4 text-sm text-gray-800 dark:text-gray-200'>
-              &quot;I&apos;ve been coming to this car wash for years and they
-              never disappoint. The attention to detail is outstanding.&quot;
+              &quot;The platform&apos;s patient management system is top-notch,
+              definitely life changing. It&apos;s intuitive, efficient, and
+              makes tracking patient progress a breeze. I can&apos;t imagine my
+              practice without it! highly recommended&quot;
             </p>
           </article>
         </div>

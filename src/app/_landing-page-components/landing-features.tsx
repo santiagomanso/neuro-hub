@@ -11,11 +11,12 @@ export default function LandingFeatures() {
               Features
             </div>
             <h2 className='text-3xl font-bold tracking-tighter sm:text-5xl'>
-              Streamline Your Car Wash Operations
+              Enhance Your Psychological Practice
             </h2>
             <p className='max-w-[900px] text-gray-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-gray-400'>
-              Unlock the power of our car wash SaaS platform and transform your
-              business.
+              Experience the efficiency of our comprehensive platform for
+              psychological assessments. Administer tests, manage patients, and
+              automate processes with ease.
             </p>
           </div>
         </div>
@@ -25,10 +26,10 @@ export default function LandingFeatures() {
               <MenuIcon className='h-6 w-6 text-gray-500 dark:text-gray-100' />
             </div>
             <div className='mt-4 space-y-2'>
-              <h3 className='text-lg font-bold'>Manage Washes</h3>
+              <h3 className='text-lg font-bold'>Dashboard</h3>
               <p className='text-sm text-gray-500 dark:text-gray-400'>
-                Effortlessly manage all your car wash operations from a single
-                platform.
+                Your own personalized dashboard to manage your electronic health
+                clinic.
               </p>
             </div>
           </div>
@@ -37,9 +38,9 @@ export default function LandingFeatures() {
               <BadgeAlertIcon className='h-6 w-6 text-gray-500 dark:text-gray-100' />
             </div>
             <div className='mt-4 space-y-2'>
-              <h3 className='text-lg font-bold'>Notify Customers</h3>
+              <h3 className='text-lg font-bold'>Notify Patients</h3>
               <p className='text-sm text-gray-500 dark:text-gray-400'>
-                Keep your customers informed with automated notifications and
+                Keep your patients informed with automated notifications and
                 updates.
               </p>
             </div>
@@ -51,7 +52,7 @@ export default function LandingFeatures() {
             <div className='mt-4 space-y-2'>
               <h3 className='text-lg font-bold'>Schedule</h3>
               <p className='text-sm text-gray-500 dark:text-gray-400'>
-                Easily manage and schedule appointments for your customers.
+                Easily manage and schedule appointments for your patients.
               </p>
             </div>
           </div>
@@ -62,7 +63,7 @@ export default function LandingFeatures() {
             <div className='mt-4 space-y-2'>
               <h3 className='text-lg font-bold'>Track Payments</h3>
               <p className='text-sm text-gray-500 dark:text-gray-400'>
-                Monitor and track all of your customer&apos;s payments with an
+                Monitor and track all of your patient&apos;s payments with an
                 intuitive user interface.
               </p>
             </div>
@@ -74,8 +75,8 @@ export default function LandingFeatures() {
             <div className='mt-4 space-y-2'>
               <h3 className='text-lg font-bold'>Detailed Analytics</h3>
               <p className='text-sm text-gray-500 dark:text-gray-400'>
-                Gain valuable insights into your business with our comprehensive
-                analytics.
+                Wide range of psychological tests approved by the CFP and
+                SATEPSI.
               </p>
             </div>
           </div>
@@ -84,10 +85,10 @@ export default function LandingFeatures() {
               <WorkflowIcon className='h-6 w-6 text-gray-500 dark:text-gray-100' />
             </div>
             <div className='mt-4 space-y-2'>
-              <h3 className='text-lg font-bold'>Workflows</h3>
+              <h3 className='text-lg font-bold'>Notes</h3>
               <p className='text-sm text-gray-500 dark:text-gray-400'>
-                Streamline your operations with our powerful automation
-                features.
+                Feel like adding your own audio filesas notes? featuring voice
+                recording.
               </p>
             </div>
           </div>
@@ -96,10 +97,9 @@ export default function LandingFeatures() {
               <TruckIcon className='h-6 w-6 text-gray-500 dark:text-gray-100' />
             </div>
             <div className='mt-4 space-y-2'>
-              <h3 className='text-lg font-bold'>Multi-Vehicle</h3>
+              <h3 className='text-lg font-bold'>Encryption</h3>
               <p className='text-sm text-gray-500 dark:text-gray-400'>
-                Manage different types of vehicles like cars, bikes, and trucks
-                with our comprehensive platform.
+                Encrypted messaging, ensuring privacy and compliance.
               </p>
             </div>
           </div>
@@ -108,10 +108,9 @@ export default function LandingFeatures() {
               <AwardIcon className='h-6 w-6 text-gray-500 dark:text-gray-100' />
             </div>
             <div className='mt-4 space-y-2'>
-              <h3 className='text-lg font-bold'>Customer Rewards</h3>
+              <h3 className='text-lg font-bold'>Rewards</h3>
               <p className='text-sm text-gray-500 dark:text-gray-400'>
-                Reward your loyal customers with special offers and incentives
-                for their continued business.
+                Reward your patients when they succed steps of their treatment.
               </p>
             </div>
           </div>

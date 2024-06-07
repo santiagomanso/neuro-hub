@@ -16,8 +16,10 @@ export default function Navbar() {
     <header className='fixed top-0 left-0 z-50 w-full backdrop-blur-md bg-white/80 dark:bg-gray-900/90 shadow'>
       <div className='container mx-auto flex h-16 items-center justify-between px-4 md:px-6'>
         <div className='flex items-center gap-2'>
-          <Assets.icons.CarWhite className='w-10 h-10' />
-          <span className='text-lg font-bold dark:text-gray-300'>Car Wash</span>
+          <Assets.icons.Brain className='w-10 h-10' />
+          <Link href='#home' className='text-lg font-bold dark:text-gray-300'>
+            Neuro hub
+          </Link>
         </div>
         <nav className='hidden md:flex items-center gap-6'>
           <Link
@@ -81,7 +83,7 @@ export default function Navbar() {
             border border-input bg-background hover:bg-accent hover:text-accent-foreground h-10 px-3'
             prefetch={false}
           >
-            My Shop
+            My Clinic
           </Link>
         </div>
       </div>

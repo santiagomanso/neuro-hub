@@ -90,7 +90,7 @@ const ContactForm = () => {
           disabled={viewModel.isLoading}
           type='submit'
         >
-          Sign In
+          Send Message
           {viewModel.isLoading && <Spinner />}
         </Button>
       </form>
