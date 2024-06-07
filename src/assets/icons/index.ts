@@ -1,4 +1,3 @@
-import Google from './svg/Google.svg';
 import Apple from './svg/Apple.svg';
 import Email from './svg/Email.svg';
 import CarWhite from './svg/CarWhite.svg';
@@ -12,6 +11,7 @@ import Plus from './svg/Plus.svg';
 import Laptop from './svg/Laptop.svg';
 import Brain from './svg/Brain.svg';
 import Brasil from './svg/Brasil.svg';
+import Google from './svg/Google.svg';
 
 export const icons = {
   Google,
