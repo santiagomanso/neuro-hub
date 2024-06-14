@@ -1,6 +1,7 @@
 import Apple from './svg/apple.svg';
 import Email from './svg/email.svg';
-import CarWhite from './svg/carWhite.svg';
+import Google from './svg/google.svg';
+import CarWhite from './svg/car-white.svg';
 import Usa from './svg/usa.svg';
 import Germany from './svg/germany.svg';
 import Spain from './svg/spain.svg';
@@ -11,7 +12,6 @@ import Plus from './svg/plus.svg';
 import Laptop from './svg/laptop.svg';
 import Brain from './svg/brain.svg';
 import Brasil from './svg/brasil.svg';
-import Google from './svg/google.svg';
 
 export const icons = {
   Google,
