@@ -1,4 +1,4 @@
-// import Apple from './svg/apple.svg';
+import Apple from './svg/apple.svg';
 import Email from './svg/email.svg';
 import Google from './svg/google.svg';
 import CarWhite from './svg/carwhite.svg';
@@ -15,7 +15,7 @@ import Brasil from './svg/brasil.svg';
 
 export const icons = {
   Google,
-  // Apple,
+  Apple,
   Email,
   CarWhite,
   Usa,
