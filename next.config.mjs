@@ -1,8 +1,5 @@
-/** @type {import('next').NextConfig} */
-const nextConfig = {
-  images: {
-    domains: ['cdn3.iconfinder.com'],
-  },
+// next.config.mjs
+const config = {
   webpack(config) {
     config.module.rules.push({
       test: /\.svg$/i,
@@ -12,6 +9,8 @@ const nextConfig = {
 
     return config;
   },
+
+  // ...other config
 };
 
-module.exports = nextConfig;
+export default config;
